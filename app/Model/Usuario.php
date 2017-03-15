@@ -1,7 +1,11 @@
-<?php  
+<?php
 
-Class Usuario extends AppModel{
-	
+App::uses('AppModel', 'Model');
+
+Class Usuario extends AppModel
+{
+
+
 }
 
 ?>

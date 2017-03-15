@@ -2,7 +2,7 @@
 <html>
 <head>
 	<?php echo $this->Html->charset(); ?>
-	<title>Projeto CRAS - CakePhp</title>
+	<title>Cras BD</title>
 	<?php
 		echo $this->Html->css('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
 		echo $this->fetch('css');
